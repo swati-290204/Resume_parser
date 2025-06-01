@@ -17,3 +17,5 @@ A simple NLP-based resume parser and visualizer built with Python and Streamlit.
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+.\venv\Scripts\Activate.ps1
