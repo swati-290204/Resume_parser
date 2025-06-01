@@ -19,3 +19,5 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 .\venv\Scripts\Activate.ps1
+streamlit run app.py
+
